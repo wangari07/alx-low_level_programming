@@ -108,5 +108,3 @@ int main(int argc, char **argv) {
     close(fd);
     return 98;
   }
-
-  if (n != sizeof(header)i
